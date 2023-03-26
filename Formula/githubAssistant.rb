@@ -6,6 +6,6 @@ class GithubAssistant < Formula
   version "0.1.1"
 
   def install
-    bin.install "github-assistant"
+    bin.install "githubAssistant"
   end
 end
