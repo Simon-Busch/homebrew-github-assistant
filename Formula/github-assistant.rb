@@ -1,9 +1,9 @@
 class GithubAssistant < Formula
   desc "Keep track of your github assignments"
   homepage "https://github.com/Simon-Busch/github-assistant"
-  url "https://github.com/Simon-Busch/github-assistant/releases/download/v0.1.1/github-assistant-mac.tar.gz"
-  sha256 "20e1eee39f6d9190fc8246bd3b94bd5961e446ce261a7284164b0643e374130f"
-  version "0.1.1"
+  url "https://github.com/Simon-Busch/github-assistant/releases/download/v0.1.0/github-assistant-mac.tar.gz"
+  sha256 "e08ef956a516fd30effde59feada78e4b1a25141abe170a3d1bbb638b4928061"
+  version "0.1.0"
 
   def install
     bin.install "github-assistant"
